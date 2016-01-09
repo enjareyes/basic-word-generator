@@ -13,10 +13,13 @@
     //generates an integer between min(included) and max(included)
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
-*/
+
+Function outline and some clues to get you started
 
 function nameYourFunction( doesItTakeAnArgument? ){
 
-  /* is there a return statement required? */
+  //is there a return statement required? 
 
 }
+
+*/
