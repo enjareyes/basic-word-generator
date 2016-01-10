@@ -12,15 +12,15 @@
 ### CSS
 
 ### JavaScript
-  #### Create a dictionary
+#### Create a dictionary
         1. Decide what data structure (Array/ Object) would make sense for storing the words
         2. Declare the var and add some data
 
-  #### Create a function to generate a random word 
+#### Create a function to generate a random word 
         Using JS inbuilt function(s) pick a random word from the dictionary and return it
 
 ### JQuery
-  #### Handle button clicks to generate the random word
+#### Handle button clicks to generate the random word
         Make sure a jQuery min file has been included in the index.html
         In the index.html file:
         1. Add an ID to your generator button
@@ -29,14 +29,14 @@
             Look up various methods on MDN and try one or more.
         3. Test your button event by console logging the output
 
-  #### Display the output to the html
+#### Display the output to the html
         Make sure the generator-script is included in the index.html
         1. Make an html div for displaying your output
         2. Add a class to your new div
         3. In your event handler, use the newly created div to diplay the output of the random function
 
 
-  ### Extra Credit
+### Extra Credit
     Add other input fields to your html such as an text field, dropdown, etc
     Think of features to use with your new input fields
     Randomize something other than words, build something more complex like sentences from words
